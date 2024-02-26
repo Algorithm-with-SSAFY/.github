@@ -105,6 +105,16 @@
             <br/>
         </td>
         <td align="center">
+            <a href="https://github.com/JAEKWANG97">
+                <img src="https://avatars.githubusercontent.com/JAEKWANG97" width="100px;" alt=""/>
+                <br/>
+                <sub>
+                    <b>유재광</b>
+                </sub>
+            </a>
+            <br/>
+        </td>
+        <td align="center">
             <a href="https://github.com/swLeesw">
                 <img src="https://avatars.githubusercontent.com/swLeesw" width="100px;" alt=""/>
                 <br/>
@@ -154,6 +164,8 @@
             </a>
             <br/>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://github.com/JaeHunJang">
                 <img src="https://avatars.githubusercontent.com/JaeHunJang" width="100px;" alt=""/>
@@ -164,8 +176,6 @@
             </a>
             <br/>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://github.com/cshyun7097">
                 <img src="https://avatars.githubusercontent.com/cshyun7097" width="100px;" alt=""/>
