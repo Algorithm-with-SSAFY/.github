@@ -296,6 +296,16 @@
             <br/>
         </td>
         <td align="center">
+            <a href="https://github.com/sangmin0806">
+                <img src="https://avatars.githubusercontent.com/sangmin0806" width="100px;" alt=""/>
+                <br/>
+                <sub>
+                    <b>이상민</b>
+                </sub>
+            </a>
+            <br/>
+        </td>
+        <td align="center">
             <a href="https://github.com/swLeesw">
                 <img src="https://avatars.githubusercontent.com/swLeesw" width="100px;" alt=""/>
                 <br/>
